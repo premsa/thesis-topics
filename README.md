@@ -1,1 +1,1 @@
-# thesis-topics
+# Thesis Topics
