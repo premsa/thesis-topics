@@ -4,9 +4,9 @@ The following list holds potential topics for students that are interested in wr
 
 when writing a request, please provide additional information.
 
-- How much technical experience do you specifically have with Python and libraries such as PyTorch, HuggingFace, Spacy?
+- How much technical experience do you specifically have with Python and libraries such as PyTorch, HuggingFace, Spacy, etc.?
  
-- Do you have any Python projects on GitHub that you can refer me to?
+- Do you have any Python projects on GitHub or anywhere else that you can refer me to?
  
 - What is your current knowledge of concepts such as natural language processing, deep learning, and (vision) transformers?
  
@@ -22,7 +22,7 @@ Please attach your CV and your transcript.
 |  Narrative Identifaction    |     Text        |    MA   |      Intermediate NLP, Python        |         :free:      |
 |  Knowledge-Based Reasoning For Fake News Detection   |     Text        |    MA   |    Intermediate NLP, Python, Database Management        |     :free:         |
 |  Low-Resource Language Modeling for the Albanian Language   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the Albanian Language          |         :free:     |
-|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to Albanian   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or Albanian Language          |    :free:          |
+|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to Albanian)   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or Albanian Language          |    :free:          |
 
 
 
