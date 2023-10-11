@@ -18,7 +18,7 @@ Please attach your CV and your transcript.
 | Topic | Description | Level | Requirements | Availability |
 |-------|-------------|-------|--------------|--------------|
 |  Multi-Modal Information Extraction for Fact News Detection    |     Text, Vision        |    MA   |    Intermediate NLP, Python       |       :free:       |
-|  Text-to-Speech Modeling for Fake  |     Text, Audio        |    MA   |     Intermediate NLP, Python          |       :free:       |
+|  Text-to-Speech Modeling for Fake News Narration |     Text, Audio        |    MA   |     Intermediate NLP, Python          |       :free:       |
 |  Narrative Identifaction    |     Text        |    MA   |      Intermediate NLP, Python        |         :free:      |
 |  Knowledge-Based Reasoning For Fake News Detection   |     Text        |    MA   |    Intermediate NLP, Python, Database Management        |     :free:         |
 |  Low-Resource Language Modeling for the Albanian Language   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the Albanian Language          |         :free:     |
