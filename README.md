@@ -14,7 +14,6 @@ when writing a request, please provide additional information.
   
 - Attach your CV and a current transcript (courses and grades)
  
-Please attach your CV and your transcript.
 | Topic | Description | Level | Requirements | Availability |
 |-------|-------------|-------|--------------|--------------|
 |  Multi-Modal Information Extraction for Fact News Detection    |     Text, Vision        |    MA   |    Intermediate NLP, Python       |       :free:       |
