@@ -14,14 +14,15 @@ when writing a request, please provide additional information.
   
 - Attach your CV and a current transcript (courses and grades)
  
-| Topic | Description | Level | Requirements | Availability |
-|-------|-------------|-------|--------------|--------------|
-|  Multi-Modal Information Extraction for Fact News Detection    |     Text, Vision        |    MA   |    Intermediate NLP, Python       |       :free:       |
-|  Text-to-Speech Modeling for Fake News Narration |     Text, Audio        |    MA   |     Intermediate NLP, Python          |       :free:       |
-|  Narrative Identifaction    |     Text        |    MA   |      Intermediate NLP, Python        |         :free:      |
-|  Knowledge-Based Reasoning For Fake News Detection   |     Text        |    MA   |    Intermediate NLP, Python, Database Management        |     :free:         |
-|  Low-Resource Language Modeling for the X Language   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the X Language          |         :free:     |
-|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to X)   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or X Language          |    :free:          |
+| Topic | Description | Literature | Level | Requirements | Availability |
+|-------|-------------|-----|--|--------------|--------------|
+|  Mixture-of-Experts Modeling for Fake News Detection |     Text     |  https://arxiv.org/pdf/2208.02813.pdf |    MA   |    Advanced NLP, Advanced Deep Learning        |    :free:          |
+|  Multi-Modal Information Extraction for Fact News Detection    |     Text, Vision    | .pdf|        MA   |    Intermediate NLP, Python       |       :free:       |
+|  Text-to-Speech Modeling for Fake News Narration |     Text, Audio     |.pdf|      MA   |     Intermediate NLP, Python          |       :free:       |
+|  Narrative Identifaction    |     Text     |.pdf|      MA   |      Intermediate NLP, Python        |         :free:      |
+|  Knowledge-Based Reasoning For Fake News Detection   |     Text      |.pdf|     MA   |    Intermediate NLP, Python, Database Management        |     :free:         |
+|  Low-Resource Language Modeling for the X Language   |     Text      |.pdf|    MA   |    Advanced NLP, Python, Knowledge/Interest of the X Language          |         :free:     |
+|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to X)   |     Text   |.pdf     |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or X Language          |    :free:          |
 
 
 
