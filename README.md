@@ -20,8 +20,8 @@ when writing a request, please provide additional information.
 |  Text-to-Speech Modeling for Fake News Narration |     Text, Audio        |    MA   |     Intermediate NLP, Python          |       :free:       |
 |  Narrative Identifaction    |     Text        |    MA   |      Intermediate NLP, Python        |         :free:      |
 |  Knowledge-Based Reasoning For Fake News Detection   |     Text        |    MA   |    Intermediate NLP, Python, Database Management        |     :free:         |
-|  Low-Resource Language Modeling for the Albanian Language   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the Albanian Language          |         :free:     |
-|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to Albanian)   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or Albanian Language          |    :free:          |
+|  Low-Resource Language Modeling for the X Language   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the X Language          |         :free:     |
+|  Multi-Language Fake-News-Detection through Knowledge Transfer (English to German, English to X)   |     Text        |    MA   |    Advanced NLP, Python, Knowledge/Interest of the German and/or X Language          |    :free:          |
 
 
 
